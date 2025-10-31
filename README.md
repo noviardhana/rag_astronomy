@@ -35,7 +35,7 @@ Dengan demikian, proyek ini diharapkan dapat mempercepat proses **literature rev
 
 ## Struktur Proyek
 
-D:\Sanbercode\otomasi\final_project
+\final_project
 │
 ├─ app.py
 ├─ from_papers_to_answers_implementing_rag_for_astronomy_knowledge_extraction.py
@@ -46,6 +46,7 @@ D:\Sanbercode\otomasi\final_project
 ├─ venv/
 ├─ pycache/
 └─ From_Papers_to_Answers_Implementing_RAG_for_Astronomy_Knowledge_Extraction.ipynb
+
 
 ---
 
@@ -78,3 +79,4 @@ streamlit run app.py
 Proyek ini dikembangkan sebagai prototipe final project untuk eksplorasi RAG berbasis literatur astronomi.
 
 Untuk pertanyaan lebih lanjut, silakan hubungi pengembang.
+
