@@ -47,7 +47,6 @@ D:\Sanbercode\otomasi\final_project
 ├─ pycache/
 └─ From_Papers_to_Answers_Implementing_RAG_for_Astronomy_Knowledge_Extraction.ipynb
 
-
 ---
 
 ## Persiapan & Instalasi
@@ -55,6 +54,9 @@ D:\Sanbercode\otomasi\final_project
 1. **Buat virtual environment** (Windows):
 
 ```bash
+
+1. **Buat virtual environment** (Windows):
+
 D:
 cd D:\Sanbercode\otomasi\final_project
 python -m venv venv
@@ -67,8 +69,12 @@ pip install -r requirements.txt
 
 3. Jalankan aplikasi (misal Streamlit):
 streamlit run app.py
+```
+
+--- 
 
 ### Kontak
 
 Proyek ini dikembangkan sebagai prototipe final project untuk eksplorasi RAG berbasis literatur astronomi.
+
 Untuk pertanyaan lebih lanjut, silakan hubungi pengembang.
