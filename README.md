@@ -31,10 +31,10 @@ Dengan demikian, proyek ini diharapkan dapat mempercepat proses **literature rev
    - Kualitas ringkasan (perbandingan sederhana dengan abstrak asli).
    - Relevansi jawaban terhadap pertanyaan uji (evaluasi manual terbatas).
 
-```text
+
 
 ## Struktur Proyek
-
+```text
 \final_project
 
 ├─ app.py
