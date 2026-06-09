@@ -31,7 +31,7 @@ Dengan demikian, proyek ini diharapkan dapat mempercepat proses **literature rev
    - Kualitas ringkasan (perbandingan sederhana dengan abstrak asli).
    - Relevansi jawaban terhadap pertanyaan uji (evaluasi manual terbatas).
 
----
+```text
 
 ## Struktur Proyek
 
@@ -55,8 +55,7 @@ Dengan demikian, proyek ini diharapkan dapat mempercepat proses **literature rev
 
 └─ From_Papers_to_Answers_Implementing_RAG_for_Astronomy_Knowledge_Extraction.ipynb
 
-
----
+```
 
 ## Persiapan & Instalasi
 
